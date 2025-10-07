@@ -1,0 +1,11 @@
+sample="PyThOn pRoCeSsInG"
+lower_case=sample.lower()
+print(lower_case)
+upper_case=sample.upper()
+print(upper_case)
+stripped=sample.strip()
+print(stripped)
+replace=sample.replace("PyThOn","Java")
+print(replace)
+index=stripped.find("RoCeSs")
+print(index)

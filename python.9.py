@@ -1,0 +1,9 @@
+data="ABCDEFGHIJKMNOP"
+a=data[3:8]
+print(a)
+b=data[:7]
+print(b)
+c=data[0:15:1]
+print(c)
+d=data[15:0:-1]
+print(d)
